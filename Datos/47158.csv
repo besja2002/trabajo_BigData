@@ -1,0 +1,721 @@
+﻿Sexo;Total_Nacional;CCAA;Tipo_de_accidente;Si_No;Total
+Ambos sexos;Total;;Accidente de tráfico;TOTAL;39.974,10
+Ambos sexos;Total;;Accidente de tráfico;Sí;584,2
+Ambos sexos;Total;;Accidente de tráfico;No;39.366,40
+Ambos sexos;Total;;Accidente de tráfico;No consta;23,5
+Ambos sexos;Total;;Accidente en casa;TOTAL;39.974,10
+Ambos sexos;Total;;Accidente en casa;Sí;833,7
+Ambos sexos;Total;;Accidente en casa;No;39.112,80
+Ambos sexos;Total;;Accidente en casa;No consta;27,6
+Ambos sexos;Total;;Accidente en tiempo libre;TOTAL;39.974,10
+Ambos sexos;Total;;Accidente en tiempo libre;Sí;1.051,30
+Ambos sexos;Total;;Accidente en tiempo libre;No;38.905,10
+Ambos sexos;Total;;Accidente en tiempo libre;No consta;17,8
+Ambos sexos;Total;Andalucía;Accidente de tráfico;TOTAL;7.096,40
+Ambos sexos;Total;Andalucía;Accidente de tráfico;Sí;75,6
+Ambos sexos;Total;Andalucía;Accidente de tráfico;No;7.019,40
+Ambos sexos;Total;Andalucía;Accidente de tráfico;No consta;1,4
+Ambos sexos;Total;Andalucía;Accidente en casa;TOTAL;7.096,40
+Ambos sexos;Total;Andalucía;Accidente en casa;Sí;141,6
+Ambos sexos;Total;Andalucía;Accidente en casa;No;6.953,40
+Ambos sexos;Total;Andalucía;Accidente en casa;No consta;1,4
+Ambos sexos;Total;Andalucía;Accidente en tiempo libre;TOTAL;7.096,40
+Ambos sexos;Total;Andalucía;Accidente en tiempo libre;Sí;115
+Ambos sexos;Total;Andalucía;Accidente en tiempo libre;No;6.980,00
+Ambos sexos;Total;Andalucía;Accidente en tiempo libre;No consta;1,4
+Ambos sexos;Total;Aragón;Accidente de tráfico;TOTAL;1.121,40
+Ambos sexos;Total;Aragón;Accidente de tráfico;Sí;13,8
+Ambos sexos;Total;Aragón;Accidente de tráfico;No;1.107,60
+Ambos sexos;Total;Aragón;Accidente de tráfico;No consta;0
+Ambos sexos;Total;Aragón;Accidente en casa;TOTAL;1.121,40
+Ambos sexos;Total;Aragón;Accidente en casa;Sí;16,2
+Ambos sexos;Total;Aragón;Accidente en casa;No;1.105,20
+Ambos sexos;Total;Aragón;Accidente en casa;No consta;0
+Ambos sexos;Total;Aragón;Accidente en tiempo libre;TOTAL;1.121,40
+Ambos sexos;Total;Aragón;Accidente en tiempo libre;Sí;16
+Ambos sexos;Total;Aragón;Accidente en tiempo libre;No;1.105,40
+Ambos sexos;Total;Aragón;Accidente en tiempo libre;No consta;0
+Ambos sexos;Total;Asturias (Principado de);Accidente de tráfico;TOTAL;896,9
+Ambos sexos;Total;Asturias (Principado de);Accidente de tráfico;Sí;8,1
+Ambos sexos;Total;Asturias (Principado de);Accidente de tráfico;No;887,4
+Ambos sexos;Total;Asturias (Principado de);Accidente de tráfico;No consta;1,4
+Ambos sexos;Total;Asturias (Principado de);Accidente en casa;TOTAL;896,9
+Ambos sexos;Total;Asturias (Principado de);Accidente en casa;Sí;18,1
+Ambos sexos;Total;Asturias (Principado de);Accidente en casa;No;877,4
+Ambos sexos;Total;Asturias (Principado de);Accidente en casa;No consta;1,4
+Ambos sexos;Total;Asturias (Principado de);Accidente en tiempo libre;TOTAL;896,9
+Ambos sexos;Total;Asturias (Principado de);Accidente en tiempo libre;Sí;36,3
+Ambos sexos;Total;Asturias (Principado de);Accidente en tiempo libre;No;859,3
+Ambos sexos;Total;Asturias (Principado de);Accidente en tiempo libre;No consta;1,4
+Ambos sexos;Total;Balears (Illes);Accidente de tráfico;TOTAL;1.030,20
+Ambos sexos;Total;Balears (Illes);Accidente de tráfico;Sí;28,4
+Ambos sexos;Total;Balears (Illes);Accidente de tráfico;No;995,4
+Ambos sexos;Total;Balears (Illes);Accidente de tráfico;No consta;6,4
+Ambos sexos;Total;Balears (Illes);Accidente en casa;TOTAL;1.030,20
+Ambos sexos;Total;Balears (Illes);Accidente en casa;Sí;6,8
+Ambos sexos;Total;Balears (Illes);Accidente en casa;No;1.017,10
+Ambos sexos;Total;Balears (Illes);Accidente en casa;No consta;6,4
+Ambos sexos;Total;Balears (Illes);Accidente en tiempo libre;TOTAL;1.030,20
+Ambos sexos;Total;Balears (Illes);Accidente en tiempo libre;Sí;12,2
+Ambos sexos;Total;Balears (Illes);Accidente en tiempo libre;No;1.018,00
+Ambos sexos;Total;Balears (Illes);Accidente en tiempo libre;No consta;0
+Ambos sexos;Total;Canarias;Accidente de tráfico;TOTAL;1.936,10
+Ambos sexos;Total;Canarias;Accidente de tráfico;Sí;23,9
+Ambos sexos;Total;Canarias;Accidente de tráfico;No;1.912,20
+Ambos sexos;Total;Canarias;Accidente de tráfico;No consta;0
+Ambos sexos;Total;Canarias;Accidente en casa;TOTAL;1.936,10
+Ambos sexos;Total;Canarias;Accidente en casa;Sí;48,3
+Ambos sexos;Total;Canarias;Accidente en casa;No;1.887,80
+Ambos sexos;Total;Canarias;Accidente en casa;No consta;0
+Ambos sexos;Total;Canarias;Accidente en tiempo libre;TOTAL;1.936,10
+Ambos sexos;Total;Canarias;Accidente en tiempo libre;Sí;75,6
+Ambos sexos;Total;Canarias;Accidente en tiempo libre;No;1.860,50
+Ambos sexos;Total;Canarias;Accidente en tiempo libre;No consta;0
+Ambos sexos;Total;Cantabria;Accidente de tráfico;TOTAL;500,1
+Ambos sexos;Total;Cantabria;Accidente de tráfico;Sí;4,6
+Ambos sexos;Total;Cantabria;Accidente de tráfico;No;495,5
+Ambos sexos;Total;Cantabria;Accidente de tráfico;No consta;0
+Ambos sexos;Total;Cantabria;Accidente en casa;TOTAL;500,1
+Ambos sexos;Total;Cantabria;Accidente en casa;Sí;3,4
+Ambos sexos;Total;Cantabria;Accidente en casa;No;496,7
+Ambos sexos;Total;Cantabria;Accidente en casa;No consta;0
+Ambos sexos;Total;Cantabria;Accidente en tiempo libre;TOTAL;500,1
+Ambos sexos;Total;Cantabria;Accidente en tiempo libre;Sí;6
+Ambos sexos;Total;Cantabria;Accidente en tiempo libre;No;493,4
+Ambos sexos;Total;Cantabria;Accidente en tiempo libre;No consta;0,7
+Ambos sexos;Total;Castilla y León;Accidente de tráfico;TOTAL;2.063,70
+Ambos sexos;Total;Castilla y León;Accidente de tráfico;Sí;10,8
+Ambos sexos;Total;Castilla y León;Accidente de tráfico;No;2.052,90
+Ambos sexos;Total;Castilla y León;Accidente de tráfico;No consta;0
+Ambos sexos;Total;Castilla y León;Accidente en casa;TOTAL;2.063,70
+Ambos sexos;Total;Castilla y León;Accidente en casa;Sí;59
+Ambos sexos;Total;Castilla y León;Accidente en casa;No;2.004,70
+Ambos sexos;Total;Castilla y León;Accidente en casa;No consta;0
+Ambos sexos;Total;Castilla y León;Accidente en tiempo libre;TOTAL;2.063,70
+Ambos sexos;Total;Castilla y León;Accidente en tiempo libre;Sí;63
+Ambos sexos;Total;Castilla y León;Accidente en tiempo libre;No;2.000,70
+Ambos sexos;Total;Castilla y León;Accidente en tiempo libre;No consta;0
+Ambos sexos;Total;Castilla-La Mancha;Accidente de tráfico;TOTAL;1.709,70
+Ambos sexos;Total;Castilla-La Mancha;Accidente de tráfico;Sí;14,3
+Ambos sexos;Total;Castilla-La Mancha;Accidente de tráfico;No;1.695,00
+Ambos sexos;Total;Castilla-La Mancha;Accidente de tráfico;No consta;0,4
+Ambos sexos;Total;Castilla-La Mancha;Accidente en casa;TOTAL;1.709,70
+Ambos sexos;Total;Castilla-La Mancha;Accidente en casa;Sí;34
+Ambos sexos;Total;Castilla-La Mancha;Accidente en casa;No;1.675,30
+Ambos sexos;Total;Castilla-La Mancha;Accidente en casa;No consta;0,4
+Ambos sexos;Total;Castilla-La Mancha;Accidente en tiempo libre;TOTAL;1.709,70
+Ambos sexos;Total;Castilla-La Mancha;Accidente en tiempo libre;Sí;49,4
+Ambos sexos;Total;Castilla-La Mancha;Accidente en tiempo libre;No;1.659,90
+Ambos sexos;Total;Castilla-La Mancha;Accidente en tiempo libre;No consta;0,4
+Ambos sexos;Total;Cataluña;Accidente de tráfico;TOTAL;6.397,60
+Ambos sexos;Total;Cataluña;Accidente de tráfico;Sí;117,6
+Ambos sexos;Total;Cataluña;Accidente de tráfico;No;6.277,30
+Ambos sexos;Total;Cataluña;Accidente de tráfico;No consta;2,6
+Ambos sexos;Total;Cataluña;Accidente en casa;TOTAL;6.397,60
+Ambos sexos;Total;Cataluña;Accidente en casa;Sí;136,5
+Ambos sexos;Total;Cataluña;Accidente en casa;No;6.254,90
+Ambos sexos;Total;Cataluña;Accidente en casa;No consta;6,2
+Ambos sexos;Total;Cataluña;Accidente en tiempo libre;TOTAL;6.397,60
+Ambos sexos;Total;Cataluña;Accidente en tiempo libre;Sí;174,9
+Ambos sexos;Total;Cataluña;Accidente en tiempo libre;No;6.220,00
+Ambos sexos;Total;Cataluña;Accidente en tiempo libre;No consta;2,6
+Ambos sexos;Total;Comunitat Valenciana;Accidente de tráfico;TOTAL;4.255,30
+Ambos sexos;Total;Comunitat Valenciana;Accidente de tráfico;Sí;80,8
+Ambos sexos;Total;Comunitat Valenciana;Accidente de tráfico;No;4.171,50
+Ambos sexos;Total;Comunitat Valenciana;Accidente de tráfico;No consta;2,9
+Ambos sexos;Total;Comunitat Valenciana;Accidente en casa;TOTAL;4.255,30
+Ambos sexos;Total;Comunitat Valenciana;Accidente en casa;Sí;115,5
+Ambos sexos;Total;Comunitat Valenciana;Accidente en casa;No;4.137,30
+Ambos sexos;Total;Comunitat Valenciana;Accidente en casa;No consta;2,4
+Ambos sexos;Total;Comunitat Valenciana;Accidente en tiempo libre;TOTAL;4.255,30
+Ambos sexos;Total;Comunitat Valenciana;Accidente en tiempo libre;Sí;190,3
+Ambos sexos;Total;Comunitat Valenciana;Accidente en tiempo libre;No;4.062,00
+Ambos sexos;Total;Comunitat Valenciana;Accidente en tiempo libre;No consta;2,9
+Ambos sexos;Total;Extremadura;Accidente de tráfico;TOTAL;904,8
+Ambos sexos;Total;Extremadura;Accidente de tráfico;Sí;8,3
+Ambos sexos;Total;Extremadura;Accidente de tráfico;No;896,6
+Ambos sexos;Total;Extremadura;Accidente de tráfico;No consta;0
+Ambos sexos;Total;Extremadura;Accidente en casa;TOTAL;904,8
+Ambos sexos;Total;Extremadura;Accidente en casa;Sí;12,6
+Ambos sexos;Total;Extremadura;Accidente en casa;No;892,2
+Ambos sexos;Total;Extremadura;Accidente en casa;No consta;0
+Ambos sexos;Total;Extremadura;Accidente en tiempo libre;TOTAL;904,8
+Ambos sexos;Total;Extremadura;Accidente en tiempo libre;Sí;17
+Ambos sexos;Total;Extremadura;Accidente en tiempo libre;No;887,9
+Ambos sexos;Total;Extremadura;Accidente en tiempo libre;No consta;0
+Ambos sexos;Total;Galicia;Accidente de tráfico;TOTAL;2.360,60
+Ambos sexos;Total;Galicia;Accidente de tráfico;Sí;57,8
+Ambos sexos;Total;Galicia;Accidente de tráfico;No;2.302,70
+Ambos sexos;Total;Galicia;Accidente de tráfico;No consta;0
+Ambos sexos;Total;Galicia;Accidente en casa;TOTAL;2.360,60
+Ambos sexos;Total;Galicia;Accidente en casa;Sí;72,3
+Ambos sexos;Total;Galicia;Accidente en casa;No;2.288,20
+Ambos sexos;Total;Galicia;Accidente en casa;No consta;0
+Ambos sexos;Total;Galicia;Accidente en tiempo libre;TOTAL;2.360,60
+Ambos sexos;Total;Galicia;Accidente en tiempo libre;Sí;53,3
+Ambos sexos;Total;Galicia;Accidente en tiempo libre;No;2.307,30
+Ambos sexos;Total;Galicia;Accidente en tiempo libre;No consta;0
+Ambos sexos;Total;Madrid (Comunidad de);Accidente de tráfico;TOTAL;5.649,90
+Ambos sexos;Total;Madrid (Comunidad de);Accidente de tráfico;Sí;53,3
+Ambos sexos;Total;Madrid (Comunidad de);Accidente de tráfico;No;5.596,60
+Ambos sexos;Total;Madrid (Comunidad de);Accidente de tráfico;No consta;0
+Ambos sexos;Total;Madrid (Comunidad de);Accidente en casa;TOTAL;5.649,90
+Ambos sexos;Total;Madrid (Comunidad de);Accidente en casa;Sí;69,7
+Ambos sexos;Total;Madrid (Comunidad de);Accidente en casa;No;5.580,20
+Ambos sexos;Total;Madrid (Comunidad de);Accidente en casa;No consta;0
+Ambos sexos;Total;Madrid (Comunidad de);Accidente en tiempo libre;TOTAL;5.649,90
+Ambos sexos;Total;Madrid (Comunidad de);Accidente en tiempo libre;Sí;112,6
+Ambos sexos;Total;Madrid (Comunidad de);Accidente en tiempo libre;No;5.537,40
+Ambos sexos;Total;Madrid (Comunidad de);Accidente en tiempo libre;No consta;0
+Ambos sexos;Total;Murcia (Región de);Accidente de tráfico;TOTAL;1.242,40
+Ambos sexos;Total;Murcia (Región de);Accidente de tráfico;Sí;38,8
+Ambos sexos;Total;Murcia (Región de);Accidente de tráfico;No;1.203,60
+Ambos sexos;Total;Murcia (Región de);Accidente de tráfico;No consta;0
+Ambos sexos;Total;Murcia (Región de);Accidente en casa;TOTAL;1.242,40
+Ambos sexos;Total;Murcia (Región de);Accidente en casa;Sí;29
+Ambos sexos;Total;Murcia (Región de);Accidente en casa;No;1.213,40
+Ambos sexos;Total;Murcia (Región de);Accidente en casa;No consta;0
+Ambos sexos;Total;Murcia (Región de);Accidente en tiempo libre;TOTAL;1.242,40
+Ambos sexos;Total;Murcia (Región de);Accidente en tiempo libre;Sí;37,1
+Ambos sexos;Total;Murcia (Región de);Accidente en tiempo libre;No;1.205,30
+Ambos sexos;Total;Murcia (Región de);Accidente en tiempo libre;No consta;0
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente de tráfico;TOTAL;547,4
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente de tráfico;Sí;9,8
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente de tráfico;No;534,2
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente de tráfico;No consta;3,4
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente en casa;TOTAL;547,4
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente en casa;Sí;9,5
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente en casa;No;533,5
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente en casa;No consta;4,4
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;TOTAL;547,4
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;Sí;19,2
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;No;524,9
+Ambos sexos;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;No consta;3,4
+Ambos sexos;Total;País Vasco;Accidente de tráfico;TOTAL;1.863,30
+Ambos sexos;Total;País Vasco;Accidente de tráfico;Sí;29,2
+Ambos sexos;Total;País Vasco;Accidente de tráfico;No;1.829,30
+Ambos sexos;Total;País Vasco;Accidente de tráfico;No consta;4,8
+Ambos sexos;Total;País Vasco;Accidente en casa;TOTAL;1.863,30
+Ambos sexos;Total;País Vasco;Accidente en casa;Sí;50,1
+Ambos sexos;Total;País Vasco;Accidente en casa;No;1.808,40
+Ambos sexos;Total;País Vasco;Accidente en casa;No consta;4,8
+Ambos sexos;Total;País Vasco;Accidente en tiempo libre;TOTAL;1.863,30
+Ambos sexos;Total;País Vasco;Accidente en tiempo libre;Sí;62,2
+Ambos sexos;Total;País Vasco;Accidente en tiempo libre;No;1.796,30
+Ambos sexos;Total;País Vasco;Accidente en tiempo libre;No consta;4,8
+Ambos sexos;Total;Rioja (La);Accidente de tráfico;TOTAL;267,4
+Ambos sexos;Total;Rioja (La);Accidente de tráfico;Sí;5,6
+Ambos sexos;Total;Rioja (La);Accidente de tráfico;No;261,3
+Ambos sexos;Total;Rioja (La);Accidente de tráfico;No consta;0,4
+Ambos sexos;Total;Rioja (La);Accidente en casa;TOTAL;267,4
+Ambos sexos;Total;Rioja (La);Accidente en casa;Sí;7,2
+Ambos sexos;Total;Rioja (La);Accidente en casa;No;259,7
+Ambos sexos;Total;Rioja (La);Accidente en casa;No consta;0,4
+Ambos sexos;Total;Rioja (La);Accidente en tiempo libre;TOTAL;267,4
+Ambos sexos;Total;Rioja (La);Accidente en tiempo libre;Sí;9,4
+Ambos sexos;Total;Rioja (La);Accidente en tiempo libre;No;257,6
+Ambos sexos;Total;Rioja (La);Accidente en tiempo libre;No consta;0,4
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;TOTAL;66,8
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;Sí;1,7
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;No;65,1
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;No consta;0
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;TOTAL;66,8
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;Sí;1,6
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;No;65,2
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;No consta;0
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;TOTAL;66,8
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;Sí;1,5
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;No;65,3
+Ambos sexos;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;No consta;0
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;TOTAL;64,3
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;Sí;1,5
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;No;62,8
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;No consta;0
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente en casa;TOTAL;64,3
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente en casa;Sí;2,1
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente en casa;No;62,2
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente en casa;No consta;0
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;TOTAL;64,3
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;Sí;0,4
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;No;63,8
+Ambos sexos;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;No consta;0
+Hombres;Total;;Accidente de tráfico;TOTAL;19.449,10
+Hombres;Total;;Accidente de tráfico;Sí;335,9
+Hombres;Total;;Accidente de tráfico;No;19.103,00
+Hombres;Total;;Accidente de tráfico;No consta;10,1
+Hombres;Total;;Accidente en casa;TOTAL;19.449,10
+Hombres;Total;;Accidente en casa;Sí;251,1
+Hombres;Total;;Accidente en casa;No;19.186,80
+Hombres;Total;;Accidente en casa;No consta;11,2
+Hombres;Total;;Accidente en tiempo libre;TOTAL;19.449,10
+Hombres;Total;;Accidente en tiempo libre;Sí;501,2
+Hombres;Total;;Accidente en tiempo libre;No;18.944,10
+Hombres;Total;;Accidente en tiempo libre;No consta;3,8
+Hombres;Total;Andalucía;Accidente de tráfico;TOTAL;3.473,00
+Hombres;Total;Andalucía;Accidente de tráfico;Sí;35,7
+Hombres;Total;Andalucía;Accidente de tráfico;No;3.437,30
+Hombres;Total;Andalucía;Accidente de tráfico;No consta;0
+Hombres;Total;Andalucía;Accidente en casa;TOTAL;3.473,00
+Hombres;Total;Andalucía;Accidente en casa;Sí;36,5
+Hombres;Total;Andalucía;Accidente en casa;No;3.436,50
+Hombres;Total;Andalucía;Accidente en casa;No consta;0
+Hombres;Total;Andalucía;Accidente en tiempo libre;TOTAL;3.473,00
+Hombres;Total;Andalucía;Accidente en tiempo libre;Sí;64,4
+Hombres;Total;Andalucía;Accidente en tiempo libre;No;3.408,60
+Hombres;Total;Andalucía;Accidente en tiempo libre;No consta;0
+Hombres;Total;Aragón;Accidente de tráfico;TOTAL;550,5
+Hombres;Total;Aragón;Accidente de tráfico;Sí;4,2
+Hombres;Total;Aragón;Accidente de tráfico;No;546,3
+Hombres;Total;Aragón;Accidente de tráfico;No consta;0
+Hombres;Total;Aragón;Accidente en casa;TOTAL;550,5
+Hombres;Total;Aragón;Accidente en casa;Sí;0,2
+Hombres;Total;Aragón;Accidente en casa;No;550,2
+Hombres;Total;Aragón;Accidente en casa;No consta;0
+Hombres;Total;Aragón;Accidente en tiempo libre;TOTAL;550,5
+Hombres;Total;Aragón;Accidente en tiempo libre;Sí;5,9
+Hombres;Total;Aragón;Accidente en tiempo libre;No;544,6
+Hombres;Total;Aragón;Accidente en tiempo libre;No consta;0
+Hombres;Total;Asturias (Principado de);Accidente de tráfico;TOTAL;425,8
+Hombres;Total;Asturias (Principado de);Accidente de tráfico;Sí;4,6
+Hombres;Total;Asturias (Principado de);Accidente de tráfico;No;421,2
+Hombres;Total;Asturias (Principado de);Accidente de tráfico;No consta;0
+Hombres;Total;Asturias (Principado de);Accidente en casa;TOTAL;425,8
+Hombres;Total;Asturias (Principado de);Accidente en casa;Sí;3,4
+Hombres;Total;Asturias (Principado de);Accidente en casa;No;422,3
+Hombres;Total;Asturias (Principado de);Accidente en casa;No consta;0
+Hombres;Total;Asturias (Principado de);Accidente en tiempo libre;TOTAL;425,8
+Hombres;Total;Asturias (Principado de);Accidente en tiempo libre;Sí;16,8
+Hombres;Total;Asturias (Principado de);Accidente en tiempo libre;No;409
+Hombres;Total;Asturias (Principado de);Accidente en tiempo libre;No consta;0
+Hombres;Total;Balears (Illes);Accidente de tráfico;TOTAL;512
+Hombres;Total;Balears (Illes);Accidente de tráfico;Sí;8,3
+Hombres;Total;Balears (Illes);Accidente de tráfico;No;497,3
+Hombres;Total;Balears (Illes);Accidente de tráfico;No consta;6,4
+Hombres;Total;Balears (Illes);Accidente en casa;TOTAL;512
+Hombres;Total;Balears (Illes);Accidente en casa;Sí;1,4
+Hombres;Total;Balears (Illes);Accidente en casa;No;504,2
+Hombres;Total;Balears (Illes);Accidente en casa;No consta;6,4
+Hombres;Total;Balears (Illes);Accidente en tiempo libre;TOTAL;512
+Hombres;Total;Balears (Illes);Accidente en tiempo libre;Sí;8,3
+Hombres;Total;Balears (Illes);Accidente en tiempo libre;No;503,7
+Hombres;Total;Balears (Illes);Accidente en tiempo libre;No consta;0
+Hombres;Total;Canarias;Accidente de tráfico;TOTAL;953,4
+Hombres;Total;Canarias;Accidente de tráfico;Sí;8,8
+Hombres;Total;Canarias;Accidente de tráfico;No;944,6
+Hombres;Total;Canarias;Accidente de tráfico;No consta;0
+Hombres;Total;Canarias;Accidente en casa;TOTAL;953,4
+Hombres;Total;Canarias;Accidente en casa;Sí;13,5
+Hombres;Total;Canarias;Accidente en casa;No;939,8
+Hombres;Total;Canarias;Accidente en casa;No consta;0
+Hombres;Total;Canarias;Accidente en tiempo libre;TOTAL;953,4
+Hombres;Total;Canarias;Accidente en tiempo libre;Sí;38,3
+Hombres;Total;Canarias;Accidente en tiempo libre;No;915,1
+Hombres;Total;Canarias;Accidente en tiempo libre;No consta;0
+Hombres;Total;Cantabria;Accidente de tráfico;TOTAL;241,9
+Hombres;Total;Cantabria;Accidente de tráfico;Sí;2,3
+Hombres;Total;Cantabria;Accidente de tráfico;No;239,7
+Hombres;Total;Cantabria;Accidente de tráfico;No consta;0
+Hombres;Total;Cantabria;Accidente en casa;TOTAL;241,9
+Hombres;Total;Cantabria;Accidente en casa;Sí;0,6
+Hombres;Total;Cantabria;Accidente en casa;No;241,3
+Hombres;Total;Cantabria;Accidente en casa;No consta;0
+Hombres;Total;Cantabria;Accidente en tiempo libre;TOTAL;241,9
+Hombres;Total;Cantabria;Accidente en tiempo libre;Sí;3,8
+Hombres;Total;Cantabria;Accidente en tiempo libre;No;238,2
+Hombres;Total;Cantabria;Accidente en tiempo libre;No consta;0
+Hombres;Total;Castilla y León;Accidente de tráfico;TOTAL;1.015,70
+Hombres;Total;Castilla y León;Accidente de tráfico;Sí;3,8
+Hombres;Total;Castilla y León;Accidente de tráfico;No;1.011,80
+Hombres;Total;Castilla y León;Accidente de tráfico;No consta;0
+Hombres;Total;Castilla y León;Accidente en casa;TOTAL;1.015,70
+Hombres;Total;Castilla y León;Accidente en casa;Sí;20,7
+Hombres;Total;Castilla y León;Accidente en casa;No;994,9
+Hombres;Total;Castilla y León;Accidente en casa;No consta;0
+Hombres;Total;Castilla y León;Accidente en tiempo libre;TOTAL;1.015,70
+Hombres;Total;Castilla y León;Accidente en tiempo libre;Sí;26
+Hombres;Total;Castilla y León;Accidente en tiempo libre;No;989,7
+Hombres;Total;Castilla y León;Accidente en tiempo libre;No consta;0
+Hombres;Total;Castilla-La Mancha;Accidente de tráfico;TOTAL;856,5
+Hombres;Total;Castilla-La Mancha;Accidente de tráfico;Sí;5,8
+Hombres;Total;Castilla-La Mancha;Accidente de tráfico;No;850,7
+Hombres;Total;Castilla-La Mancha;Accidente de tráfico;No consta;0
+Hombres;Total;Castilla-La Mancha;Accidente en casa;TOTAL;856,5
+Hombres;Total;Castilla-La Mancha;Accidente en casa;Sí;7,8
+Hombres;Total;Castilla-La Mancha;Accidente en casa;No;848,7
+Hombres;Total;Castilla-La Mancha;Accidente en casa;No consta;0
+Hombres;Total;Castilla-La Mancha;Accidente en tiempo libre;TOTAL;856,5
+Hombres;Total;Castilla-La Mancha;Accidente en tiempo libre;Sí;28,4
+Hombres;Total;Castilla-La Mancha;Accidente en tiempo libre;No;828,1
+Hombres;Total;Castilla-La Mancha;Accidente en tiempo libre;No consta;0
+Hombres;Total;Cataluña;Accidente de tráfico;TOTAL;3.107,20
+Hombres;Total;Cataluña;Accidente de tráfico;Sí;76,9
+Hombres;Total;Cataluña;Accidente de tráfico;No;3.030,30
+Hombres;Total;Cataluña;Accidente de tráfico;No consta;0
+Hombres;Total;Cataluña;Accidente en casa;TOTAL;3.107,20
+Hombres;Total;Cataluña;Accidente en casa;Sí;54,7
+Hombres;Total;Cataluña;Accidente en casa;No;3.052,50
+Hombres;Total;Cataluña;Accidente en casa;No consta;0
+Hombres;Total;Cataluña;Accidente en tiempo libre;TOTAL;3.107,20
+Hombres;Total;Cataluña;Accidente en tiempo libre;Sí;90,8
+Hombres;Total;Cataluña;Accidente en tiempo libre;No;3.016,40
+Hombres;Total;Cataluña;Accidente en tiempo libre;No consta;0
+Hombres;Total;Comunitat Valenciana;Accidente de tráfico;TOTAL;2.079,70
+Hombres;Total;Comunitat Valenciana;Accidente de tráfico;Sí;68,8
+Hombres;Total;Comunitat Valenciana;Accidente de tráfico;No;2.010,90
+Hombres;Total;Comunitat Valenciana;Accidente de tráfico;No consta;0
+Hombres;Total;Comunitat Valenciana;Accidente en casa;TOTAL;2.079,70
+Hombres;Total;Comunitat Valenciana;Accidente en casa;Sí;56,1
+Hombres;Total;Comunitat Valenciana;Accidente en casa;No;2.023,70
+Hombres;Total;Comunitat Valenciana;Accidente en casa;No consta;0
+Hombres;Total;Comunitat Valenciana;Accidente en tiempo libre;TOTAL;2.079,70
+Hombres;Total;Comunitat Valenciana;Accidente en tiempo libre;Sí;75,7
+Hombres;Total;Comunitat Valenciana;Accidente en tiempo libre;No;2.004,10
+Hombres;Total;Comunitat Valenciana;Accidente en tiempo libre;No consta;0
+Hombres;Total;Extremadura;Accidente de tráfico;TOTAL;447
+Hombres;Total;Extremadura;Accidente de tráfico;Sí;2,7
+Hombres;Total;Extremadura;Accidente de tráfico;No;444,3
+Hombres;Total;Extremadura;Accidente de tráfico;No consta;0
+Hombres;Total;Extremadura;Accidente en casa;TOTAL;447
+Hombres;Total;Extremadura;Accidente en casa;Sí;2,9
+Hombres;Total;Extremadura;Accidente en casa;No;444,1
+Hombres;Total;Extremadura;Accidente en casa;No consta;0
+Hombres;Total;Extremadura;Accidente en tiempo libre;TOTAL;447
+Hombres;Total;Extremadura;Accidente en tiempo libre;Sí;6
+Hombres;Total;Extremadura;Accidente en tiempo libre;No;441
+Hombres;Total;Extremadura;Accidente en tiempo libre;No consta;0
+Hombres;Total;Galicia;Accidente de tráfico;TOTAL;1.129,40
+Hombres;Total;Galicia;Accidente de tráfico;Sí;29,3
+Hombres;Total;Galicia;Accidente de tráfico;No;1.100,10
+Hombres;Total;Galicia;Accidente de tráfico;No consta;0
+Hombres;Total;Galicia;Accidente en casa;TOTAL;1.129,40
+Hombres;Total;Galicia;Accidente en casa;Sí;19,1
+Hombres;Total;Galicia;Accidente en casa;No;1.110,20
+Hombres;Total;Galicia;Accidente en casa;No consta;0
+Hombres;Total;Galicia;Accidente en tiempo libre;TOTAL;1.129,40
+Hombres;Total;Galicia;Accidente en tiempo libre;Sí;35,4
+Hombres;Total;Galicia;Accidente en tiempo libre;No;1.094,00
+Hombres;Total;Galicia;Accidente en tiempo libre;No consta;0
+Hombres;Total;Madrid (Comunidad de);Accidente de tráfico;TOTAL;2.678,40
+Hombres;Total;Madrid (Comunidad de);Accidente de tráfico;Sí;39,7
+Hombres;Total;Madrid (Comunidad de);Accidente de tráfico;No;2.638,70
+Hombres;Total;Madrid (Comunidad de);Accidente de tráfico;No consta;0
+Hombres;Total;Madrid (Comunidad de);Accidente en casa;TOTAL;2.678,40
+Hombres;Total;Madrid (Comunidad de);Accidente en casa;Sí;20
+Hombres;Total;Madrid (Comunidad de);Accidente en casa;No;2.658,40
+Hombres;Total;Madrid (Comunidad de);Accidente en casa;No consta;0
+Hombres;Total;Madrid (Comunidad de);Accidente en tiempo libre;TOTAL;2.678,40
+Hombres;Total;Madrid (Comunidad de);Accidente en tiempo libre;Sí;48,9
+Hombres;Total;Madrid (Comunidad de);Accidente en tiempo libre;No;2.629,50
+Hombres;Total;Madrid (Comunidad de);Accidente en tiempo libre;No consta;0
+Hombres;Total;Murcia (Región de);Accidente de tráfico;TOTAL;617,5
+Hombres;Total;Murcia (Región de);Accidente de tráfico;Sí;14,1
+Hombres;Total;Murcia (Región de);Accidente de tráfico;No;603,4
+Hombres;Total;Murcia (Región de);Accidente de tráfico;No consta;0
+Hombres;Total;Murcia (Región de);Accidente en casa;TOTAL;617,5
+Hombres;Total;Murcia (Región de);Accidente en casa;Sí;3,8
+Hombres;Total;Murcia (Región de);Accidente en casa;No;613,7
+Hombres;Total;Murcia (Región de);Accidente en casa;No consta;0
+Hombres;Total;Murcia (Región de);Accidente en tiempo libre;TOTAL;617,5
+Hombres;Total;Murcia (Región de);Accidente en tiempo libre;Sí;12,6
+Hombres;Total;Murcia (Región de);Accidente en tiempo libre;No;604,9
+Hombres;Total;Murcia (Región de);Accidente en tiempo libre;No consta;0
+Hombres;Total;Navarra (Comunidad Foral de);Accidente de tráfico;TOTAL;269,6
+Hombres;Total;Navarra (Comunidad Foral de);Accidente de tráfico;Sí;8,4
+Hombres;Total;Navarra (Comunidad Foral de);Accidente de tráfico;No;257,9
+Hombres;Total;Navarra (Comunidad Foral de);Accidente de tráfico;No consta;3,4
+Hombres;Total;Navarra (Comunidad Foral de);Accidente en casa;TOTAL;269,6
+Hombres;Total;Navarra (Comunidad Foral de);Accidente en casa;Sí;3
+Hombres;Total;Navarra (Comunidad Foral de);Accidente en casa;No;262,2
+Hombres;Total;Navarra (Comunidad Foral de);Accidente en casa;No consta;4,4
+Hombres;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;TOTAL;269,6
+Hombres;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;Sí;11,6
+Hombres;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;No;254,7
+Hombres;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;No consta;3,4
+Hombres;Total;País Vasco;Accidente de tráfico;TOTAL;895
+Hombres;Total;País Vasco;Accidente de tráfico;Sí;16,2
+Hombres;Total;País Vasco;Accidente de tráfico;No;878,7
+Hombres;Total;País Vasco;Accidente de tráfico;No consta;0
+Hombres;Total;País Vasco;Accidente en casa;TOTAL;895
+Hombres;Total;País Vasco;Accidente en casa;Sí;3,4
+Hombres;Total;País Vasco;Accidente en casa;No;891,6
+Hombres;Total;País Vasco;Accidente en casa;No consta;0
+Hombres;Total;País Vasco;Accidente en tiempo libre;TOTAL;895
+Hombres;Total;País Vasco;Accidente en tiempo libre;Sí;24
+Hombres;Total;País Vasco;Accidente en tiempo libre;No;871
+Hombres;Total;País Vasco;Accidente en tiempo libre;No consta;0
+Hombres;Total;Rioja (La);Accidente de tráfico;TOTAL;131,1
+Hombres;Total;Rioja (La);Accidente de tráfico;Sí;3,8
+Hombres;Total;Rioja (La);Accidente de tráfico;No;126,9
+Hombres;Total;Rioja (La);Accidente de tráfico;No consta;0,4
+Hombres;Total;Rioja (La);Accidente en casa;TOTAL;131,1
+Hombres;Total;Rioja (La);Accidente en casa;Sí;2
+Hombres;Total;Rioja (La);Accidente en casa;No;128,7
+Hombres;Total;Rioja (La);Accidente en casa;No consta;0,4
+Hombres;Total;Rioja (La);Accidente en tiempo libre;TOTAL;131,1
+Hombres;Total;Rioja (La);Accidente en tiempo libre;Sí;3,5
+Hombres;Total;Rioja (La);Accidente en tiempo libre;No;127,2
+Hombres;Total;Rioja (La);Accidente en tiempo libre;No consta;0,4
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;TOTAL;33,6
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;Sí;1,5
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;No;32,1
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;No consta;0
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;TOTAL;33,6
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;Sí;0,5
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;No;33,1
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;No consta;0
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;TOTAL;33,6
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;Sí;1
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;No;32,6
+Hombres;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;No consta;0
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;TOTAL;32
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;Sí;0,9
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;No;31,1
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;No consta;0
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente en casa;TOTAL;32
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente en casa;Sí;1,3
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente en casa;No;30,6
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente en casa;No consta;0
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;TOTAL;32
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;Sí;0,2
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;No;31,8
+Hombres;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;No consta;0
+Mujeres;Total;;Accidente de tráfico;TOTAL;20.525,00
+Mujeres;Total;;Accidente de tráfico;Sí;248,2
+Mujeres;Total;;Accidente de tráfico;No;20.263,40
+Mujeres;Total;;Accidente de tráfico;No consta;13,4
+Mujeres;Total;;Accidente en casa;TOTAL;20.525,00
+Mujeres;Total;;Accidente en casa;Sí;582,6
+Mujeres;Total;;Accidente en casa;No;19.926,00
+Mujeres;Total;;Accidente en casa;No consta;16,4
+Mujeres;Total;;Accidente en tiempo libre;TOTAL;20.525,00
+Mujeres;Total;;Accidente en tiempo libre;Sí;550,1
+Mujeres;Total;;Accidente en tiempo libre;No;19.960,90
+Mujeres;Total;;Accidente en tiempo libre;No consta;14
+Mujeres;Total;Andalucía;Accidente de tráfico;TOTAL;3.623,40
+Mujeres;Total;Andalucía;Accidente de tráfico;Sí;39,9
+Mujeres;Total;Andalucía;Accidente de tráfico;No;3.582,10
+Mujeres;Total;Andalucía;Accidente de tráfico;No consta;1,4
+Mujeres;Total;Andalucía;Accidente en casa;TOTAL;3.623,40
+Mujeres;Total;Andalucía;Accidente en casa;Sí;105,1
+Mujeres;Total;Andalucía;Accidente en casa;No;3.516,90
+Mujeres;Total;Andalucía;Accidente en casa;No consta;1,4
+Mujeres;Total;Andalucía;Accidente en tiempo libre;TOTAL;3.623,40
+Mujeres;Total;Andalucía;Accidente en tiempo libre;Sí;50,6
+Mujeres;Total;Andalucía;Accidente en tiempo libre;No;3.571,40
+Mujeres;Total;Andalucía;Accidente en tiempo libre;No consta;1,4
+Mujeres;Total;Aragón;Accidente de tráfico;TOTAL;570,9
+Mujeres;Total;Aragón;Accidente de tráfico;Sí;9,6
+Mujeres;Total;Aragón;Accidente de tráfico;No;561,3
+Mujeres;Total;Aragón;Accidente de tráfico;No consta;0
+Mujeres;Total;Aragón;Accidente en casa;TOTAL;570,9
+Mujeres;Total;Aragón;Accidente en casa;Sí;16
+Mujeres;Total;Aragón;Accidente en casa;No;554,9
+Mujeres;Total;Aragón;Accidente en casa;No consta;0
+Mujeres;Total;Aragón;Accidente en tiempo libre;TOTAL;570,9
+Mujeres;Total;Aragón;Accidente en tiempo libre;Sí;10,1
+Mujeres;Total;Aragón;Accidente en tiempo libre;No;560,8
+Mujeres;Total;Aragón;Accidente en tiempo libre;No consta;0
+Mujeres;Total;Asturias (Principado de);Accidente de tráfico;TOTAL;471,1
+Mujeres;Total;Asturias (Principado de);Accidente de tráfico;Sí;3,5
+Mujeres;Total;Asturias (Principado de);Accidente de tráfico;No;466,3
+Mujeres;Total;Asturias (Principado de);Accidente de tráfico;No consta;1,4
+Mujeres;Total;Asturias (Principado de);Accidente en casa;TOTAL;471,1
+Mujeres;Total;Asturias (Principado de);Accidente en casa;Sí;14,6
+Mujeres;Total;Asturias (Principado de);Accidente en casa;No;455,1
+Mujeres;Total;Asturias (Principado de);Accidente en casa;No consta;1,4
+Mujeres;Total;Asturias (Principado de);Accidente en tiempo libre;TOTAL;471,1
+Mujeres;Total;Asturias (Principado de);Accidente en tiempo libre;Sí;19,5
+Mujeres;Total;Asturias (Principado de);Accidente en tiempo libre;No;450,3
+Mujeres;Total;Asturias (Principado de);Accidente en tiempo libre;No consta;1,4
+Mujeres;Total;Balears (Illes);Accidente de tráfico;TOTAL;518,3
+Mujeres;Total;Balears (Illes);Accidente de tráfico;Sí;20,1
+Mujeres;Total;Balears (Illes);Accidente de tráfico;No;498,2
+Mujeres;Total;Balears (Illes);Accidente de tráfico;No consta;0
+Mujeres;Total;Balears (Illes);Accidente en casa;TOTAL;518,3
+Mujeres;Total;Balears (Illes);Accidente en casa;Sí;5,4
+Mujeres;Total;Balears (Illes);Accidente en casa;No;512,9
+Mujeres;Total;Balears (Illes);Accidente en casa;No consta;0
+Mujeres;Total;Balears (Illes);Accidente en tiempo libre;TOTAL;518,3
+Mujeres;Total;Balears (Illes);Accidente en tiempo libre;Sí;3,9
+Mujeres;Total;Balears (Illes);Accidente en tiempo libre;No;514,3
+Mujeres;Total;Balears (Illes);Accidente en tiempo libre;No consta;0
+Mujeres;Total;Canarias;Accidente de tráfico;TOTAL;982,8
+Mujeres;Total;Canarias;Accidente de tráfico;Sí;15,1
+Mujeres;Total;Canarias;Accidente de tráfico;No;967,7
+Mujeres;Total;Canarias;Accidente de tráfico;No consta;0
+Mujeres;Total;Canarias;Accidente en casa;TOTAL;982,8
+Mujeres;Total;Canarias;Accidente en casa;Sí;34,8
+Mujeres;Total;Canarias;Accidente en casa;No;947,9
+Mujeres;Total;Canarias;Accidente en casa;No consta;0
+Mujeres;Total;Canarias;Accidente en tiempo libre;TOTAL;982,8
+Mujeres;Total;Canarias;Accidente en tiempo libre;Sí;37,3
+Mujeres;Total;Canarias;Accidente en tiempo libre;No;945,5
+Mujeres;Total;Canarias;Accidente en tiempo libre;No consta;0
+Mujeres;Total;Cantabria;Accidente de tráfico;TOTAL;258,1
+Mujeres;Total;Cantabria;Accidente de tráfico;Sí;2,3
+Mujeres;Total;Cantabria;Accidente de tráfico;No;255,8
+Mujeres;Total;Cantabria;Accidente de tráfico;No consta;0
+Mujeres;Total;Cantabria;Accidente en casa;TOTAL;258,1
+Mujeres;Total;Cantabria;Accidente en casa;Sí;2,8
+Mujeres;Total;Cantabria;Accidente en casa;No;255,4
+Mujeres;Total;Cantabria;Accidente en casa;No consta;0
+Mujeres;Total;Cantabria;Accidente en tiempo libre;TOTAL;258,1
+Mujeres;Total;Cantabria;Accidente en tiempo libre;Sí;2,2
+Mujeres;Total;Cantabria;Accidente en tiempo libre;No;255,3
+Mujeres;Total;Cantabria;Accidente en tiempo libre;No consta;0,7
+Mujeres;Total;Castilla y León;Accidente de tráfico;TOTAL;1.048,00
+Mujeres;Total;Castilla y León;Accidente de tráfico;Sí;7
+Mujeres;Total;Castilla y León;Accidente de tráfico;No;1.041,00
+Mujeres;Total;Castilla y León;Accidente de tráfico;No consta;0
+Mujeres;Total;Castilla y León;Accidente en casa;TOTAL;1.048,00
+Mujeres;Total;Castilla y León;Accidente en casa;Sí;38,3
+Mujeres;Total;Castilla y León;Accidente en casa;No;1.009,70
+Mujeres;Total;Castilla y León;Accidente en casa;No consta;0
+Mujeres;Total;Castilla y León;Accidente en tiempo libre;TOTAL;1.048,00
+Mujeres;Total;Castilla y León;Accidente en tiempo libre;Sí;37
+Mujeres;Total;Castilla y León;Accidente en tiempo libre;No;1.011,00
+Mujeres;Total;Castilla y León;Accidente en tiempo libre;No consta;0
+Mujeres;Total;Castilla-La Mancha;Accidente de tráfico;TOTAL;853,2
+Mujeres;Total;Castilla-La Mancha;Accidente de tráfico;Sí;8,5
+Mujeres;Total;Castilla-La Mancha;Accidente de tráfico;No;844,3
+Mujeres;Total;Castilla-La Mancha;Accidente de tráfico;No consta;0,4
+Mujeres;Total;Castilla-La Mancha;Accidente en casa;TOTAL;853,2
+Mujeres;Total;Castilla-La Mancha;Accidente en casa;Sí;26,1
+Mujeres;Total;Castilla-La Mancha;Accidente en casa;No;826,7
+Mujeres;Total;Castilla-La Mancha;Accidente en casa;No consta;0,4
+Mujeres;Total;Castilla-La Mancha;Accidente en tiempo libre;TOTAL;853,2
+Mujeres;Total;Castilla-La Mancha;Accidente en tiempo libre;Sí;21,1
+Mujeres;Total;Castilla-La Mancha;Accidente en tiempo libre;No;831,7
+Mujeres;Total;Castilla-La Mancha;Accidente en tiempo libre;No consta;0,4
+Mujeres;Total;Cataluña;Accidente de tráfico;TOTAL;3.290,40
+Mujeres;Total;Cataluña;Accidente de tráfico;Sí;40,7
+Mujeres;Total;Cataluña;Accidente de tráfico;No;3.247,10
+Mujeres;Total;Cataluña;Accidente de tráfico;No consta;2,6
+Mujeres;Total;Cataluña;Accidente en casa;TOTAL;3.290,40
+Mujeres;Total;Cataluña;Accidente en casa;Sí;81,8
+Mujeres;Total;Cataluña;Accidente en casa;No;3.202,40
+Mujeres;Total;Cataluña;Accidente en casa;No consta;6,2
+Mujeres;Total;Cataluña;Accidente en tiempo libre;TOTAL;3.290,40
+Mujeres;Total;Cataluña;Accidente en tiempo libre;Sí;84,1
+Mujeres;Total;Cataluña;Accidente en tiempo libre;No;3.203,60
+Mujeres;Total;Cataluña;Accidente en tiempo libre;No consta;2,6
+Mujeres;Total;Comunitat Valenciana;Accidente de tráfico;TOTAL;2.175,50
+Mujeres;Total;Comunitat Valenciana;Accidente de tráfico;Sí;12
+Mujeres;Total;Comunitat Valenciana;Accidente de tráfico;No;2.160,60
+Mujeres;Total;Comunitat Valenciana;Accidente de tráfico;No consta;2,9
+Mujeres;Total;Comunitat Valenciana;Accidente en casa;TOTAL;2.175,50
+Mujeres;Total;Comunitat Valenciana;Accidente en casa;Sí;59,5
+Mujeres;Total;Comunitat Valenciana;Accidente en casa;No;2.113,60
+Mujeres;Total;Comunitat Valenciana;Accidente en casa;No consta;2,4
+Mujeres;Total;Comunitat Valenciana;Accidente en tiempo libre;TOTAL;2.175,50
+Mujeres;Total;Comunitat Valenciana;Accidente en tiempo libre;Sí;114,6
+Mujeres;Total;Comunitat Valenciana;Accidente en tiempo libre;No;2.058,00
+Mujeres;Total;Comunitat Valenciana;Accidente en tiempo libre;No consta;2,9
+Mujeres;Total;Extremadura;Accidente de tráfico;TOTAL;457,9
+Mujeres;Total;Extremadura;Accidente de tráfico;Sí;5,6
+Mujeres;Total;Extremadura;Accidente de tráfico;No;452,3
+Mujeres;Total;Extremadura;Accidente de tráfico;No consta;0
+Mujeres;Total;Extremadura;Accidente en casa;TOTAL;457,9
+Mujeres;Total;Extremadura;Accidente en casa;Sí;9,7
+Mujeres;Total;Extremadura;Accidente en casa;No;448,1
+Mujeres;Total;Extremadura;Accidente en casa;No consta;0
+Mujeres;Total;Extremadura;Accidente en tiempo libre;TOTAL;457,9
+Mujeres;Total;Extremadura;Accidente en tiempo libre;Sí;11
+Mujeres;Total;Extremadura;Accidente en tiempo libre;No;446,9
+Mujeres;Total;Extremadura;Accidente en tiempo libre;No consta;0
+Mujeres;Total;Galicia;Accidente de tráfico;TOTAL;1.231,20
+Mujeres;Total;Galicia;Accidente de tráfico;Sí;28,6
+Mujeres;Total;Galicia;Accidente de tráfico;No;1.202,70
+Mujeres;Total;Galicia;Accidente de tráfico;No consta;0
+Mujeres;Total;Galicia;Accidente en casa;TOTAL;1.231,20
+Mujeres;Total;Galicia;Accidente en casa;Sí;53,2
+Mujeres;Total;Galicia;Accidente en casa;No;1.178,00
+Mujeres;Total;Galicia;Accidente en casa;No consta;0
+Mujeres;Total;Galicia;Accidente en tiempo libre;TOTAL;1.231,20
+Mujeres;Total;Galicia;Accidente en tiempo libre;Sí;17,9
+Mujeres;Total;Galicia;Accidente en tiempo libre;No;1.213,30
+Mujeres;Total;Galicia;Accidente en tiempo libre;No consta;0
+Mujeres;Total;Madrid (Comunidad de);Accidente de tráfico;TOTAL;2.971,50
+Mujeres;Total;Madrid (Comunidad de);Accidente de tráfico;Sí;13,6
+Mujeres;Total;Madrid (Comunidad de);Accidente de tráfico;No;2.957,90
+Mujeres;Total;Madrid (Comunidad de);Accidente de tráfico;No consta;0
+Mujeres;Total;Madrid (Comunidad de);Accidente en casa;TOTAL;2.971,50
+Mujeres;Total;Madrid (Comunidad de);Accidente en casa;Sí;49,7
+Mujeres;Total;Madrid (Comunidad de);Accidente en casa;No;2.921,80
+Mujeres;Total;Madrid (Comunidad de);Accidente en casa;No consta;0
+Mujeres;Total;Madrid (Comunidad de);Accidente en tiempo libre;TOTAL;2.971,50
+Mujeres;Total;Madrid (Comunidad de);Accidente en tiempo libre;Sí;63,7
+Mujeres;Total;Madrid (Comunidad de);Accidente en tiempo libre;No;2.907,90
+Mujeres;Total;Madrid (Comunidad de);Accidente en tiempo libre;No consta;0
+Mujeres;Total;Murcia (Región de);Accidente de tráfico;TOTAL;624,9
+Mujeres;Total;Murcia (Región de);Accidente de tráfico;Sí;24,7
+Mujeres;Total;Murcia (Región de);Accidente de tráfico;No;600,2
+Mujeres;Total;Murcia (Región de);Accidente de tráfico;No consta;0
+Mujeres;Total;Murcia (Región de);Accidente en casa;TOTAL;624,9
+Mujeres;Total;Murcia (Región de);Accidente en casa;Sí;25,2
+Mujeres;Total;Murcia (Región de);Accidente en casa;No;599,7
+Mujeres;Total;Murcia (Región de);Accidente en casa;No consta;0
+Mujeres;Total;Murcia (Región de);Accidente en tiempo libre;TOTAL;624,9
+Mujeres;Total;Murcia (Región de);Accidente en tiempo libre;Sí;24,6
+Mujeres;Total;Murcia (Región de);Accidente en tiempo libre;No;600,4
+Mujeres;Total;Murcia (Región de);Accidente en tiempo libre;No consta;0
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente de tráfico;TOTAL;277,8
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente de tráfico;Sí;1,4
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente de tráfico;No;276,3
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente de tráfico;No consta;0
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente en casa;TOTAL;277,8
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente en casa;Sí;6,5
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente en casa;No;271,3
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente en casa;No consta;0
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;TOTAL;277,8
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;Sí;7,6
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;No;270,2
+Mujeres;Total;Navarra (Comunidad Foral de);Accidente en tiempo libre;No consta;0
+Mujeres;Total;País Vasco;Accidente de tráfico;TOTAL;968,3
+Mujeres;Total;País Vasco;Accidente de tráfico;Sí;13
+Mujeres;Total;País Vasco;Accidente de tráfico;No;950,5
+Mujeres;Total;País Vasco;Accidente de tráfico;No consta;4,8
+Mujeres;Total;País Vasco;Accidente en casa;TOTAL;968,3
+Mujeres;Total;País Vasco;Accidente en casa;Sí;46,7
+Mujeres;Total;País Vasco;Accidente en casa;No;916,9
+Mujeres;Total;País Vasco;Accidente en casa;No consta;4,8
+Mujeres;Total;País Vasco;Accidente en tiempo libre;TOTAL;968,3
+Mujeres;Total;País Vasco;Accidente en tiempo libre;Sí;38,2
+Mujeres;Total;País Vasco;Accidente en tiempo libre;No;925,3
+Mujeres;Total;País Vasco;Accidente en tiempo libre;No consta;4,8
+Mujeres;Total;Rioja (La);Accidente de tráfico;TOTAL;136,2
+Mujeres;Total;Rioja (La);Accidente de tráfico;Sí;1,8
+Mujeres;Total;Rioja (La);Accidente de tráfico;No;134,5
+Mujeres;Total;Rioja (La);Accidente de tráfico;No consta;0
+Mujeres;Total;Rioja (La);Accidente en casa;TOTAL;136,2
+Mujeres;Total;Rioja (La);Accidente en casa;Sí;5,2
+Mujeres;Total;Rioja (La);Accidente en casa;No;131
+Mujeres;Total;Rioja (La);Accidente en casa;No consta;0
+Mujeres;Total;Rioja (La);Accidente en tiempo libre;TOTAL;136,2
+Mujeres;Total;Rioja (La);Accidente en tiempo libre;Sí;5,9
+Mujeres;Total;Rioja (La);Accidente en tiempo libre;No;130,4
+Mujeres;Total;Rioja (La);Accidente en tiempo libre;No consta;0
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;TOTAL;33,2
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;Sí;0,3
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;No;32,9
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente de tráfico;No consta;0
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;TOTAL;33,2
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;Sí;1,1
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;No;32,1
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente en casa;No consta;0
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;TOTAL;33,2
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;Sí;0,5
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;No;32,7
+Mujeres;Total;Ceuta (Ciudad Autónoma de);Accidente en tiempo libre;No consta;0
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;TOTAL;32,3
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;Sí;0,6
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;No;31,7
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente de tráfico;No consta;0
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente en casa;TOTAL;32,3
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente en casa;Sí;0,8
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente en casa;No;31,5
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente en casa;No consta;0
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;TOTAL;32,3
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;Sí;0,3
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;No;32
+Mujeres;Total;Melilla (Ciudad Autónoma de);Accidente en tiempo libre;No consta;0
