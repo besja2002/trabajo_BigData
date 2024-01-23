@@ -1,0 +1,68 @@
+/* css styles */
+.quarto-title-block .quarto-title-banner h1, .quarto-title-block .quarto-title-banner h2, .quarto-title-block .quarto-title-banner h3, .quarto-title-block .quarto-title-banner h4, .quarto-title-block .quarto-title-banner h5, .quarto-title-block .quarto-title-banner h6 {
+    color: #ecf0f1;
+}
+.quarto-title-block .quarto-title-banner {
+    color: #ecf0f1;
+}
+
+/* justificar el texto */ 
+p, ul, ol {
+  text-align: justify; }    
+  
+  
+.rojo {
+  color: red;
+}
+
+.pink-background {
+  background-color: pink;
+}
+
+.importante {
+  color: red;
+  background-color: yellow;
+}
+
+body {
+  background-color: #C1CDCD;
+}
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Título de tu Sitio</title>
+    
+    <!-- Enlaza tu archivo CSS -->
+    <link rel="stylesheet" href="ruta/tu-archivo.css">
+
+    <!-- Puedes agregar estilos adicionales aquí -->
+    <style>
+        /* Estilos específicos para el header */
+        header {
+            background-color: #333; /* Color de fondo del header */
+            padding: 10px; /* Espaciado interno */
+            text-align: center; /* Alineación del texto dentro del header */
+        }
+
+        /* Estilo del logo en el header */
+        header img {
+            max-width: 100%; /* Asegura que el logo no exceda el ancho del contenedor */
+            height: auto; /* Mantiene la proporción original del logo */
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Header con el logo -->
+    <header>
+        <!-- Reemplaza 'ruta/del/logo.png' con la ubicación y nombre de tu archivo de logo -->
+        <img src="ruta/del/logo.png" alt="Logo de tu empresa">
+    </header>
+
+    <!-- Resto del contenido del cuerpo de tu sitio web -->
+
+</body>
+</html>
+
